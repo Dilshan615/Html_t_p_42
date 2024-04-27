@@ -1,6 +1,6 @@
 
 <header>
-    <h1 align="center">sL Code Hob</h1>
+    <h1 align="center">sL Code Hub</h1>
     <h2>Project Name -- Html_Tiktok_Project_42</h2>
 </header>
 <br /><br />
